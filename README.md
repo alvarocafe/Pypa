@@ -33,7 +33,9 @@ from pulp import * `
 E para utilizar em R, ou PipaR, as bibliotecas Rglpk, readtxt e readxl:
 
 `library(Rglpk)
+
 library(readxl)
+
 library(readtxt)`
 
 No caso da JuPipa, o pacote JuMP está disponível no repositório do Julia 1.0 e pode ser instalada com o comando
